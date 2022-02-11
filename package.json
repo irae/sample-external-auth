@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express": "^4.17.2",
+    "metrohash": "^2.8.0",
+    "morgan": "^1.10.0",
+    "request-promise-native": "^1.0.9",
+    "rethinkdb": "^2.4.2"
+  }
+}
